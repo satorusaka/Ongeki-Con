@@ -3,6 +3,8 @@
 DIY Controller for Ongeki.
 
 ![Assembly photo](Images/Ongeki-con-assy.png)
+![Assembly photo](Images/Photo1.jpg)
+![Assembly photo](Images/Photo2.jpg)
 
 ## TODO
 
