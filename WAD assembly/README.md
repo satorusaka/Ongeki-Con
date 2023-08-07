@@ -20,6 +20,7 @@ Replicates arcade cabinet design and function. Uses photo sensor as trigger, and
 ### Flat Spring
 
 ![Flat Spring Dimensions](Images/Spring%20Dimensions.png?raw=true)
+
 - Dimensions: 20x50mm
 - thickness: 0.64mm
 - Sheet brass
