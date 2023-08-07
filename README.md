@@ -2,11 +2,17 @@
 
 DIY Controller for Ongeki.
 
+## TODO
+
+- Add Swing Mechanism files and documentation
+- Add Main pcb files and documentation
+
 ## Electronics
 
 - 22AWG wire
 - various XH connectors
 - Female Spade Crimp Terminals
+- USB-C breakout board.
 
 ### Main PCB (Needs Documenting)
 
@@ -21,16 +27,8 @@ Raspberry Pi Pico breakout Board
   - Test Button
   - Service Button
   - Coin Button
-- Lever analog
-- USB breakout board
-
-### WAD PCB
-
-LED Panel with passthrough for Photosensor. Documentation in `/WAD assembly`.
-
-### USB Breakout board
-
-Any USB-C breakout board.
+- Lever analog connector
+- USB breakout board connector
 
 ### Buttons
 
@@ -65,72 +63,40 @@ Any USB-C breakout board.
 
 ## Wall Attack Device (WAD) sub-assembly
 
-Replicates arcade cabinet design and function. Documentation in `/WAD assembly`.
+Replicates arcade cabinet design and function. Documentation in [WAD assembly](WAD%20assembly/README.md).
 
-## Lever sub-assembly (Needs Documenting)
+## Swing Mechanism sub-assembly (Needs Documenting)
 
-### 3D Printed Parts
-
-- Knob
-- Frames, front and back
-- sensor holder
-- spring holder
-- M8 T-coupler
-
-### Lever Parts
-
-- Handle Rod. 10mm Dia., 150mm Len. metal rod
-- M8x90 Hex Bolt(x1). **pivot rod.**
-- M8x60 Hex Bolt(x2). **End Rods.**
-- M8 nuts(x4) (use threadlocker)
-- Rubber Tube (8mm ID, 15mm OD, 23mm Length)
-- 608 bearings(x2) (ID:8mm, OD:22mm, Width:7mm)
-- 3.3v angle sensor
-- 6x8 Shaft Coupler (D:14, L:25)
-- M3x6 Bolt(x2) **angle sensor**
-- M3 Countersunk Bolts(x6). (or 9mm + thickness of case.)
-- M3x10 Bolts(x4) **Friction plate**
-- M3x16 Bolts(x2) **T-Coupler clamp**
-- M3x8 Bolts(x2) **T-Coupler Handle rod**
-- M3 Nuts(x18) (Treaded Inserts)
-- [Compression Spring](https://www.aliexpress.com/item/4000436939383.html) (Wire Dia. : 2mm, Len. : 80mm, OD: 30mm)
-- Grease
+Replicates arcade cabinet design and function. Documentation in [Swing assembly](Swing%20assembly/README.md).
 
 ---
 
-## Controller Case
+## Case
 
 - mdf / sheet-metal
 - Dimensions: 783x295x90mm (WxDxH)
 
-## WAD Walls
+### WAD Walls
 
 - mdf / sheet-metal
 - T-Nut to attach side wall to Main body
 - slide down from top to attach
 
-## Control Panel Acrylic
+### Control Panel Acrylic
 
 - Dimensions: 669x295mm (WxD)
 - 5mm thick
 - 3mm chamfers
 - 5mm rounded corner
 
-### Panel Graphics printing options
+#### Panel Graphics printing options
 
 - [silkscreen printing](https://www.acrylic.com.sg/silkscreen-printing/)
 - UV printing
-- Paper insert
-
----
-
-## Notes & References
-
-- [rhythm-cons.wiki](https://rhythm-cons.wiki/w/Ongeki)
-- [cab photos](https://photos.google.com/share/AF1QipPur0GExM6ftsZ-0MSKVLL0iPzG87EIehGkDcn-gwX2q84G2SUYe2BA4SfxvfC4WQ?key=WkkxV2FkOVNnX1l6QmFwUVhJeExXQUdNbjI2aFFn)
+- Poster Paper
 
 ---
 
 ## Firmware
 
-[satorusaka/lkick-io4](https://github.com/satorusaka/lkick-io4)
+Thanks \_LittleC\_! [satorusaka/lkick-io4](https://github.com/satorusaka/lkick-io4)
