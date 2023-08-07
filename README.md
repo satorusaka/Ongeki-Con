@@ -19,7 +19,7 @@ DIY Controller for Ongeki.
 - various Female Spade Crimp Terminals for buttons
 - USB-C breakout board
 
-## Raspberry Pi Pico breakout Board
+## Raspberry Pi Pico breakout Board (FILES NOT READY)
 
 Documentation in [main-PCB](main-PCB/README.md).
 ![Pico-ONFGKI v3.0](main-PCB/Images/Pico-ONGEKI.png)
@@ -29,7 +29,7 @@ Documentation in [main-PCB](main-PCB/README.md).
 Documentation in [WAD assembly](WAD%20assembly/README.md).
 ![WAD Photo](WAD%20assembly/Images/WAD-Assy.png)
 
-## Swing Mechanism sub-assembly
+## Swing Mechanism sub-assembly (FILES NOT READY)
 
 Documentation in [Swing assembly](Swing%20assembly/README.md).
 ![Swing Mechanism](Swing%20assembly/Images/Swing-assy.png)

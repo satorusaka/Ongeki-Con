@@ -13,6 +13,27 @@
   - Coin Button
 - Lever analog connector
 - USB breakout board connector
+- card reader connector
+
+## configuration needed
+
+Needs the correct io file.
+
+Configure COM ports to port 1 & 3. for LED and Card Reader.
+
+update stools conf
+
+```ini
+[aime]
+enable=0
+aimePath=DEVICE\aime.txt
+
+[io4]
+enable=0
+
+[io3]
+enable=0
+```
 
 ## Firmware
 
