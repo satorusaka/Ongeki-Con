@@ -5,6 +5,7 @@ I've designed this WAD to be accurate to the original design and function, using
 There is a STEP file provided for this assembly, you can use it as a guide or modify it to your needs.
 
 ![WAD Photo](Images/WAD-Assy.png)
+
 [Photos below](#gallery)
 
 ## Required Parts
