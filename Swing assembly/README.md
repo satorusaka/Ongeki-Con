@@ -1,4 +1,6 @@
-# Swing Mechanism sub-assembly
+# Swing Mechanism sub-assembly (INCOMPLETE)
+
+FILES NOT READY
 
 ## Required Parts
 

@@ -52,8 +52,7 @@ Raspberry Pi Pico breakout Board
 
 #### Extra buttons (Test,Service,coin) (x3)
 
-- 24mm round buttons or any other buttons
-- Sanwa OBSF-24
+- Sanwa OBSF-24 24mm round buttons or any other buttons
 - Links
   - [Sanwa Official Store](https://www.rakuten.co.jp/sanwadenshi/)
   - [IST 24mm](https://www.us.istmall.co.kr/Product/Detail/view/pid/25/cid/)
@@ -63,11 +62,11 @@ Raspberry Pi Pico breakout Board
 
 ## Wall Attack Device (WAD) sub-assembly
 
-Replicates arcade cabinet design and function. Documentation in [WAD assembly](WAD%20assembly/README.md).
+Documentation in [WAD assembly](WAD%20assembly/README.md).
 
-## Swing Mechanism sub-assembly (Needs Documenting)
+## Swing Mechanism sub-assembly
 
-Replicates arcade cabinet design and function. Documentation in [Swing assembly](Swing%20assembly/README.md).
+Documentation in [Swing assembly](Swing%20assembly/README.md).
 
 ---
 
