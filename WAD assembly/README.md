@@ -4,7 +4,7 @@ I've designed this WAD to be accurate to the original design and function, using
 
 There is a STEP file provided for this assembly, you can use it as a guide or modify it to your needs.
 
-![WAD Photo](Images\WAD-Assy.png)
+![WAD Photo](Images/WAD-Assy.png)
 [Photos below](#gallery)
 
 ## Required Parts
@@ -30,7 +30,7 @@ parts needed for the PCB are listed under the [PCB Section](#custom-wad-pcb)
 
 ## Printed Parts
 
-![Printed Parts](Images\Printed-parts.png)
+![Printed Parts](Images/Printed-parts.png)
 
 Print 2 each, 1 per side. I recommend printing the button face vertically for a nicer looking surface.
 
@@ -55,14 +55,14 @@ Print 2 each, 1 per side. I recommend printing the button face vertically for a 
 
 ### Pivot Shaft
 
-![Pivot Dimensions](Images\pivot-rod.png?raw=true)
+![Pivot Dimensions](Images/pivot-rod.png?raw=true)
 
 - 3.97mm dia., 150mm length
   Optionally, you can tap rod ends with M4 threads and use m4 nuts and washers on both ends to secure. personally I just use friction fit
 
 ### Custom WAD PCB
 
-![WAD PCB](Images\WAD-PCB.png?raw=true)
+![WAD PCB](Images/WAD-PCB.png?raw=true)
 
 LED Panel with cable passthrough for Photosensor. Alternatively, you can use WS2812b LED Strips in place of the PCB.
 
@@ -80,11 +80,11 @@ LED Panel with cable passthrough for Photosensor. Alternatively, you can use WS2
 
 ### Sticker Decal
 
-![wad decal](Decal\WAD-decal.png)
+![wad decal](Decal/WAD-decal.png)
 
 ## Gallery
 
-![WAD Photo](Images\WAD%201.JPG)
-![WAD Photo](Images\WAD%202.JPG)
-![WAD Photo](Images\WAD%203.JPG)
-![WAD Photo](Images\WAD%204.JPG)
+![WAD Photo](Images/WAD%201.JPG)
+![WAD Photo](Images/WAD%202.JPG)
+![WAD Photo](Images/WAD%203.JPG)
+![WAD Photo](Images/WAD%204.JPG)
