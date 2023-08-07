@@ -10,7 +10,7 @@ There is a STEP file provided for this assembly, you can use it as a guide or mo
 
 ## Required Parts
 
-parts needed for the PCB are listed under the [PCB Section](#custom-wad-pcb)
+parts needed for the PCB are listed under the [PCB Section](#custom-wad-pcb). Additional custom parts and printed parts below.
 
 | Part                                               | Qty                                            | Links                                                                        |
 | -------------------------------------------------- | ---------------------------------------------- | ---------------------------------------------------------------------------- |
