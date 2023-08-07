@@ -4,13 +4,8 @@ I've designed this WAD to be accurate to the original design and function, using
 
 There is a STEP file provided for this assembly, you can use it as a guide or modify it to your needs.
 
-## Photos
-
 ![WAD Photo](Images\WAD-Assy.png)
-![WAD Photo](Images\WAD%201.JPG)
-![WAD Photo](Images\WAD%202.JPG)
-![WAD Photo](Images\WAD%203.JPG)
-![WAD Photo](Images\WAD%204.JPG)
+[Photos below](#gallery)
 
 ## Required Parts
 
@@ -86,3 +81,10 @@ LED Panel with cable passthrough for Photosensor. Alternatively, you can use WS2
 ### Sticker Decal
 
 ![wad decal](Decal\WAD-decal.png)
+
+## Gallery
+
+![WAD Photo](Images\WAD%201.JPG)
+![WAD Photo](Images\WAD%202.JPG)
+![WAD Photo](Images\WAD%203.JPG)
+![WAD Photo](Images\WAD%204.JPG)

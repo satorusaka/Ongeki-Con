@@ -1,5 +1,6 @@
 # Swing Mechanism sub-assembly (INCOMPLETE)
 
+![assy](Images/Swing-assy.png)
 FILES NOT READY
 
 ## Required Parts

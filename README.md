@@ -2,39 +2,41 @@
 
 DIY Controller for Ongeki.
 
+![Assembly photo](Images\Ongeki-con-assy.png)
+
 ## TODO
 
 - Add Swing Mechanism files and documentation
 - Add Main pcb files and documentation
+- Complete case design
 
-## Electronics
+## Required parts
 
 - 22AWG wire
 - various XH connectors
-- Female Spade Crimp Terminals
-- USB-C breakout board.
+- various Female Spade Crimp Terminals for buttons
+- USB-C breakout board
 
-### Main PCB (Needs Documenting)
+## Raspberry Pi Pico breakout Board
 
-Raspberry Pi Pico breakout Board
+Documentation in [main-PCB](main-PCB/README.md).
+![Pico-ONFGKI v3.0](main-PCB/Images\Pico-ONGEKI.png)
 
-- 13 Buttons connections
-  - 6 Main Buttons
-    - Button + MintyLED
-  - 2 WAD Buttons
-    - Button + WS2812b (panel or strips)
-  - 2 Menu Buttons
-  - Test Button
-  - Service Button
-  - Coin Button
-- Lever analog connector
-- USB breakout board connector
+## Wall Attack Device (WAD) sub-assembly
 
-### Buttons
+Documentation in [WAD assembly](WAD%20assembly/README.md).
+![WAD Photo](WAD%20assembly/Images/WAD-Assy.png)
+
+## Swing Mechanism sub-assembly
+
+Documentation in [Swing assembly](Swing%20assembly/README.md).
+![Swing Mechanism](Swing%20assembly/Images/Swing-assy.png)
+
+## Buttons
 
 [Rhythm-cons.wiki: Buttons Guide](https://rhythm-cons.wiki/w/Buttons)
 
-#### Main buttons (x6)
+### Main buttons (x6)
 
 - Sanwa OBSA-60UK 60mm Square button
 - using [Mintyleds](https://shop.mon.im/product/mintyleds)
@@ -43,32 +45,20 @@ Raspberry Pi Pico breakout Board
   - [IST 60UK](https://www.us.istmall.co.kr/Product/Detail/view/pid/67/cid/)
   - AliExpress: 60mm square arcade button
 
-#### Menu buttons (x2) (1 Yellow, 1 Red)
+### Menu buttons (x2) (1 Yellow, 1 Red)
 
 - OBSF-24KK YELLOW & RED 24mm square button
 - Links
   - [Sanwa Official Store](https://www.rakuten.co.jp/sanwadenshi/)
   - AliExpress: 24mm square arcade button
 
-#### Extra buttons (Test,Service,coin) (x3)
+### Extra buttons (Test,Service,coin) (x3)
 
-- Sanwa OBSF-24 24mm round buttons or any other buttons
+- Sanwa OBSF-24 24mm round buttons
 - Links
   - [Sanwa Official Store](https://www.rakuten.co.jp/sanwadenshi/)
   - [IST 24mm](https://www.us.istmall.co.kr/Product/Detail/view/pid/25/cid/)
   - AliExpress: 24mm round arcade button
-
----
-
-## Wall Attack Device (WAD) sub-assembly
-
-Documentation in [WAD assembly](WAD%20assembly/README.md).
-
-## Swing Mechanism sub-assembly
-
-Documentation in [Swing assembly](Swing%20assembly/README.md).
-
----
 
 ## Case
 
@@ -93,9 +83,3 @@ Documentation in [Swing assembly](Swing%20assembly/README.md).
 - [silkscreen printing](https://www.acrylic.com.sg/silkscreen-printing/)
 - UV printing
 - Poster Paper
-
----
-
-## Firmware
-
-Thanks \_LittleC\_! [satorusaka/lkick-io4](https://github.com/satorusaka/lkick-io4)
