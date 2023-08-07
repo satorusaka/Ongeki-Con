@@ -1,4 +1,4 @@
-# ONGEKI Controller Build (DOCUMENTATION INCOMPLETE)
+# ONGEKI Controller Build
 
 DIY Controller for Ongeki.
 
