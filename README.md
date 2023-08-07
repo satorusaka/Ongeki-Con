@@ -20,7 +20,7 @@ DIY Controller for Ongeki.
 ## Raspberry Pi Pico breakout Board
 
 Documentation in [main-PCB](main-PCB/README.md).
-![Pico-ONFGKI v3.0](main-PCB/Images\Pico-ONGEKI.png)
+![Pico-ONFGKI v3.0](main-PCB/Images/Pico-ONGEKI.png)
 
 ## Wall Attack Device (WAD) sub-assembly
 
