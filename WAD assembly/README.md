@@ -80,7 +80,7 @@ LED Panel with cable passthrough for Photosensor. Alternatively, you can use WS2
 | JST XH contacts      | 7   |
 
 ### Sticker Decal
-
+dimensions to be added. 
 ![wad decal](Decal/WAD-decal.png)
 
 ## Gallery

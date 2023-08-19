@@ -1,6 +1,6 @@
 # Pico-ONGEKI v3.0 (Needs Documenting)
 
-![Pico-ONFGKI v3.0](Images\Pico-ONGEKI.png)
+![Pico-ONFGKI v3.0](Images/Pico-ONGEKI.png)
 
 - 13 Buttons connections
   - 6 Main Buttons
