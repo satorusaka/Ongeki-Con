@@ -8,7 +8,6 @@ DIY Controller for Ongeki.
 
 ## TODO
 
-- Add Swing Mechanism files and documentation
 - Add Main pcb files and documentation
 - Complete case design
 
