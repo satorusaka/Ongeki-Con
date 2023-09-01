@@ -29,7 +29,7 @@ Documentation in [main-PCB](main-PCB/README.md).
 Documentation in [WAD assembly](WAD%20assembly/README.md).
 ![WAD Photo](WAD%20assembly/Images/WAD-Assy.png)
 
-## Swing Mechanism sub-assembly (FILES NOT READY)
+## Swing Mechanism sub-assembly
 
 Documentation in [Swing assembly](Swing%20assembly/README.md).
 ![Swing Mechanism](Swing%20assembly/Images/Swing-assy.png)
