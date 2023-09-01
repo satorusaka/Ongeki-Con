@@ -1,4 +1,4 @@
-# Swing Mechanism sub-assembly (INCOMPLETE)
+# Swing Mechanism sub-assembly
 
 I've designed this to be accurate to the original design and function.
 
