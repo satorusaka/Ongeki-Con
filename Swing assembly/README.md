@@ -62,5 +62,6 @@ Additional custom parts and printed parts below.
 
 ## Gallery
 
-![SwingAssy Photo](Images/WAD%201.JPG)
-![SwingAssy Photo](Images/WAD%202.JPG)
+![SwingAssy Photo](Images/Photo1.jpg)
+![SwingAssy Photo](Images/Photo2.jpg)
+![SwingAssy Photo](Images/Photo3.jpg)
