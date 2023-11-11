@@ -84,3 +84,7 @@ Documentation in [Swing assembly](Swing%20assembly/README.md).
 - [silkscreen printing](https://www.acrylic.com.sg/silkscreen-printing/)
 - UV printing
 - Poster Paper
+
+# License
+
+This work is licensed under [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1)
